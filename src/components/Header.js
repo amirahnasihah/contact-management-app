@@ -6,7 +6,7 @@ const Header = () => {
     <div className="ui attached header">
       <div className="ui header">
         <Link to="/">
-          <div className="ui center aligned header">Contact Manager 📲</div>
+          <div className="ui center aligned header">Contact Management 📲</div>
         </Link>
       </div>
     </div>
