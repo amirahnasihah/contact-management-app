@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-> contact management app for vercel setup + context api + Semantic UI
+> contact management app for vercel setup + reactjs + semantic-ui + context api + react-router-dom v6 + vercel.json + deploy to vercel
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
